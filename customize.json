@@ -1,0 +1,30 @@
+{
+  "greeting": "Hey",
+  "name": "Zoya",
+  "greetingText": "I'm so fortunate to have met you in the most beautiful moments of life",
+  "wishText": "May your youth never fade and may every year be filled with joy!",
+  "imagePath": "img/01.png",
+  "text1": "Today is your birthday!!! :D",
+  "textInChatBox": "Wishing you a very very very sincere Happy Birthday!!! Lots and lots of happiness...",
+  "sendButtonLabel": "Send",
+  "text2": "I wanted to surprise you",
+  "text3": "I thought about it carefully",
+  "text4": "I realized I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are special to me",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "I hope this little surprise brought a smile to your face!",
+  "replayText": "✨ Watch Again ✨",
+  "outroSmiley": "With Love 💕",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Poppins",
+      "path": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+    }
+  ]
+}
